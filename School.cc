@@ -55,5 +55,4 @@ void School::printRegistrationsByStu(Student* stu){
     RegList temp(list, stu);
     cout << "\nREGISTRATIONS FOR " << stu->getName() << endl;
     temp.print();
-    temp.cleanData();
 }

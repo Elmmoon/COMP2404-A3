@@ -34,4 +34,4 @@ View.o: View.cc View.h
 	g++ $(OPT) -c View.cc 
 
 clean:
-	del -f *.o a3.exe
+	rm -f *.o a3.exe
