@@ -13,7 +13,7 @@ using namespace std;
 class School
 {
   public:
-    School(string);
+    School(string = "N/A");
     ~School();
     void addStu(Student*);
     void addCourse(Course*);

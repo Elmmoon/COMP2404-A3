@@ -9,7 +9,7 @@ using namespace std;
 class Course
 {
   public:
-    Course(string, string, int, char, string);
+    Course(string = "N/A", string = "N/A", int = 0, char = '?', string = "N/A");
     ~Course();
     bool lessThan(Course*) const;
     void print() const;

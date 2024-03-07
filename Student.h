@@ -7,7 +7,7 @@ using namespace std;
 class Student
 {
   public:
-    Student(string, string, string);
+    Student(string = "N/A", string = "N/A", string = "N/A");
     ~Student();
     bool lessThan(Student*) const;
     void print() const;

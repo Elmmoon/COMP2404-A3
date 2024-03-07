@@ -8,7 +8,7 @@
 class Registration
 {
   public:
-    Registration(Student*, Course*);
+    Registration(Student* = NULL, Course* = NULL);
     ~Registration();
     bool lessThan(Registration*) const;
     void print() const;
