@@ -13,7 +13,7 @@ Run in a linux environment. Enter the directory with the necessary files.
 
 Enter "make" into the terminal.
 
-Enter "./a3" next. This will launch the schedule manager.
+Enter "./a3" next. This will launch the registration manager.
 
-Enter options given by the menu to navigate the schedule manager.
+Enter options given by the menu to navigate the registration manager.
 
