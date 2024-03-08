@@ -1,3 +1,8 @@
+/*
+Purpose: A collections class that contains a statically-allocated
+         array of Student object pointers.
+*/
+
 #ifndef STUARRAY_H
 #define STUARRAY_H
 

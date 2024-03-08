@@ -1,3 +1,8 @@
+/*
+Purpose: A collections class that contains a singly-linked list with a tail
+         that contains Registration object pointers as data
+*/
+
 #ifndef REGLIST_H
 #define REGLIST_H
 

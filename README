@@ -1,0 +1,19 @@
+Author: Dylan Yin
+Student ID: 101257186
+
+Purpose: A course registration manager for Carleton University's Fall 2023 and Winter 2024 semesters. 
+         View 'Usage' for a list of instructions and functionalities.
+
+Files: defs.h Control.cc Course.cc CourseArray.cc Registration.cc RegList.cc School.cc StuArray.cc 
+    Student.cc View.ccmain.cc Control.h Course.h CourseArray.h Registration.h RegList.h School.h 
+    StuArray.h Student.h View.h Makefile README
+
+Instructions: 
+Run in a linux environment. Enter the directory with the necessary files. 
+
+Enter "make" into the terminal.
+
+Enter "./a3" next. This will launch the schedule manager.
+
+Enter options given by the menu to navigate the schedule manager.
+

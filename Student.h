@@ -1,3 +1,8 @@
+/* 
+Purpose: A representation of the available students that are in enrolled in
+         a School object
+*/
+
 #ifndef STUDENT_H
 #define STUDENT_H
 

@@ -1,3 +1,8 @@
+/*
+Purpose: A collections class that contains a statically-allocated
+         array of Course object pointers.
+*/
+
 #ifndef COURSEARRAY_H
 #define COURSEARRAY_H
 

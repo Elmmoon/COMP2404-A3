@@ -1,3 +1,8 @@
+/* 
+Purpose: A representation of the each registration in a School object,
+         containing both a valid Course and Student pointer
+*/
+
 #ifndef REGISTRATION_H
 #define REGISTRATION_H
 
